@@ -99,6 +99,10 @@ p {
     color: #ffffff;
 }
 
+/*
+    With the ID here any img element inside of it will be floated to the left have a max-height set to 200px 
+*/
+
 #search-engine-optimization img {
     max-height: 200px;
     float: left;
